@@ -1,2 +1,1 @@
-[DeepLearningPalynology.pdf](https://github.com/borax9/PaleoAI/files/13676666/DeepLearningPalynology.pdf)
-[YAZDIR.pdf](https://github.com/borax9/PaleoAI/files/13676683/YAZDIR.pdf)
+[Agbulut et al., 2023 -PalyAI.pdf](https://github.com/borax9/PaleoAI/files/13676699/Agbulut.et.al.2023.-PalyAI.pdf)
